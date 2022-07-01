@@ -1,4 +1,4 @@
-# PersonalNotes
+# Personal Notes
 
 <div>-Spring CRUD webapp for store notes (with SpringBoot).</div>
 <div>-There is authentication and authorization by login and password (password is stored hashed in database)</div>
